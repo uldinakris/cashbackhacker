@@ -1,2 +1,3 @@
 rootProject.name = 'cashbackhacker'
+include 'junit4'
 
